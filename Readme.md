@@ -1,82 +1,42 @@
-## thplus / brix.kim
-안녕하세요! 하나씩 배워가는 초심 개발자입니다.<br />
-뭐든 배워가는 자세로 임하겠습니다. 감사합니다.
-<br />
-<br />
-<br />
-## My values
-😎 열정을 다해 해보겠습니다.<br />
-👌 쉽더라도 반복하며 배우겠습니다.<br />
-🦻 재미를 붙여 끝까지 하겠습니다.<br />
-<br />
-<br />
-<br />
-## Markdown 기능 test
-bold = **bold**<br />
-italic = *italic*<br />
-> Quote test
-> * hi I'm brix kim <br />
+안녕하세요, AI Engineer 김부영입니다. 👋
 
-[go to team notion]('https://www.notion.so/adapterz/13-e68b263444ae4cf9acdbf2aaaa8eb69b')
+실제 서비스에서 발생하는 문제를 정의하고, 데이터·모델·판정 로직·추론 구조를 개선하는 AI Engineer입니다.
 
-|name|description|
-|:--:|:--:|
-|table|완성|
-|가운데 정렬|:--:|
+최근에는 AI 도구를 활용한 개발과 검증에도 관심을 가지고 있습니다.
 
-- code block test
-```python
-def start():
-	(...)
-	
-	sel_menu = input("1,2,3 중에 선택해주세요.")
-	while True:
-		if sel_menu == "1":
-			select_char()
-			break
-		elif sel_menu == "2":
-			create_char()
-			break
-		elif sel_menu == "3":
-			break
-		else:
-			sel_menu = input("1,2,3 중에 선택해주세요.")
-			
-		(...)
-```
-testing...
-<br />
-<br />
-<br />
-## Skills
-#### I use it often.
-<div style="display:flex;gap:30px;flex-wrap:wrap;">
-  <img src="https://img.shields.io/badge/js-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/ts-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=Babel&logoColor=black">
-  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=black">
-</div>
-#### I've used it before.
-<div style="display:flex;gap:30px;flex-wrap:wrap;">
-   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=iOS&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
-  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white">
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white">
-  <img src="https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=Logstash&logoColor=white">
-  <img src="https://img.shields.io/badge/kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-</div>
-<br />
-<br />
-<br />
+💼 Experience
 
+구름 | AI R&D Engineer Intern (2025.11 ~ 2026.04)
+
+온라인 코딩테스트 감독 시스템 AI Obserview 개발 및 개선
+
+실제 운영 프레임 FPR 0.42%, 평균 추론 시간 34.93% 단축
+
+카카오테크 부트캠프 | 생성형 AI 2기 (2025.01 ~ 2025.07)
+
+AI 데스크테리어 추천 서비스 OnTheTop 기획 및 개발
+
+입력 검증 최적화, Inpainting 및 Multi-GPU 처리 구조 개선
+
+🚀 Projects
+
+TPS Project — Unity · C# · Codex
+
+기존 TPS를 3개 클래스, 30웨이브 로그라이크 액션 게임으로 확장
+
+Codex와 협업한 기능 구현, 디버깅 및 반복 검증
+
+🛠 Tech Stack
+
+Language: Python, C#
+
+AI / ML: PyTorch, OpenCV, Transformers, Diffusers
+
+Backend: FastAPI, Redis Streams
+
+Tools: Git, GitHub, Unity, Codex
+
+📫 Contact
+
+Email: glanz6670@naver.com
 Copyright ⓒ startupcode yaro
